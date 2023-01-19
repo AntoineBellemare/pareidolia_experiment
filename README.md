@@ -9,3 +9,4 @@ They are available upon request.
 The stimuli were generated using 1/f spatial in Matlab.
 
 ![Stimuli](https://github.com/antoinebellemare/pareidolia_experiment/blob/main/Fig1_stimuli.TIFF?raw=true)
+![Alt text](Fig1_stimuli.TIFF?raw=true "Title")
