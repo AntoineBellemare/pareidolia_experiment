@@ -1,0 +1,11 @@
+function fcloud_image(N, low, high, step, size)
+
+
+for D = low:step:high
+
+    for i = 1:N
+        fcloud = mat2gray(create_fcloud(size,D));
+            
+    
+    
+end

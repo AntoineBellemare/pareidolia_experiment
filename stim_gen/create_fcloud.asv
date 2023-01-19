@@ -1,0 +1,3 @@
+function fcloud = create_fcloud
+
+fcloud = spatialPattern([500,500], find_b(0.1))
