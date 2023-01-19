@@ -7,3 +7,5 @@ The images have not been uploaded on the repository for the purpose of space.
 They are available upon request.
 
 The stimuli were generated using 1/f spatial in Matlab.
+
+![My Image](Fig1_stimuli.tiff)
